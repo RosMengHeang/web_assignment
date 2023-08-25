@@ -1,4 +1,4 @@
- ```
+
 # Portfolio
 
 This is a simple HTML portfolio website. It contains information about me, my education background, programming languages I know, and contact information.
